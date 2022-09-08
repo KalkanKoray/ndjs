@@ -7,6 +7,8 @@ function daireHesapla(yariCap) {
     console.log(alan)
 }
 daireHesapla(arguments[0]*1);
+//terminale node alan yariçap girildiğinde dairenin alanini verir
+
 
 
 
